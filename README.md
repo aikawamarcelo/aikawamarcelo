@@ -1,10 +1,10 @@
 ### Olá, Eu sou Marcelo Aikawa 👋
 
 
-- 🔭 Estou atualmente trabalhando com Hardware.
-- 🌱 Estudando programação FullStack
-- 📫 Para mensagens chamar no e-mail: marceloaikawa@hotmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente trabalhando com Hardware;
+- 🌱 Buscando oportunidades no segmento de Programação;
+- 📫 Para mensagens chamar no e-mail: marceloaikawa@hotmail.com;
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/aikawamarcelo">
