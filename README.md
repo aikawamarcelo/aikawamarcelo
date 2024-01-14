@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando com Manutenção de dispositivos de Informática como Computadores, Impressoras, Notebooks e Celulares;
-- 🌱 Buscando oportunidades no segmento de Programação e de Perícia Cibernetica;
+- 🌱 Buscando oportunidades no segmento de Programação e de Cibersegurança;
 - 📫 Para mensagens chamar no e-mail: marceloaikawa@hotmail.com ou no Linkedin: aikawamarcelo;
 - 😄 Pronouns: ele/dele.
 
