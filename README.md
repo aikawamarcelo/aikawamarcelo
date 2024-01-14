@@ -1,9 +1,9 @@
 ### Olá, Eu sou Marcelo Aikawa 👋
 
 
-- 🔭 Atualmente trabalhando com Hardware;
-- 🌱 Buscando oportunidades no segmento de Programação;
-- 📫 Para mensagens chamar no e-mail: marceloaikawa@hotmail.com;
+- 🔭 Atualmente trabalhando com Manutenção de dispositivos de Informática como Computadores, Impressoras, Notebooks e Celulares;
+- 🌱 Buscando oportunidades no segmento de Programação e de Perícia Cibernetica;
+- 📫 Para mensagens chamar no e-mail: marceloaikawa@hotmail.com ou no Linkedin: aikawamarcelo;
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
